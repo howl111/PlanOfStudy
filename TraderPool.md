@@ -1,7 +1,3 @@
----
-sidebar_position: 6
----
-
 ### *Code*
 ### [```TraderPool.sol```](https://github.com/dexe-network/dexe-asset-management/blob/js-tests-new-contract-with-pass/contracts/TraderPoolUpgradable.sol)
 #### *Parameter's table*

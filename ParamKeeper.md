@@ -1,9 +1,5 @@
----
-sidebar_position: 1
----
-
 ### *Code*
-### [ParamKeeper.sol](https://github.com/dexe-network/dexe-asset-management/blob/js-tests-new-contract-with-pass/contracts/ParamKeeper.sol)
+### [```ParamKeeper.sol```](https://github.com/dexe-network/dexe-asset-management/blob/js-tests-new-contract-with-pass/contracts/ParamKeeper.sol)
 
 #### *Parameter's table*
 <table class="iksweb">
