@@ -6,7 +6,7 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<th>Type</th>
+			```<th>Type</th>```
 			<th>Name</th>
 			<th>Definition</th>
 		</tr>
