@@ -4,9 +4,9 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>address</td>
@@ -41,17 +41,17 @@
 		<tr>
 			<td>uint256</td>
 			<td>_commissions</td>
-			<td></td>
+			<td>Array of 3 commissions, specified in a form of natural fration each (i.e. nominator and denominator.). Format: [traderCommDenom, traderCommNom, investorCommDenom, investorCommNom, platformCommDenom, platformCommNom]</td>
 		</tr>
 		<tr>
 			<td>bool</td>
 			<td>_actual</td>
-			<td></td>
+			<td>flag for setting up "actual portfolio". Set to true to enable.</td>
 		</tr>
 		<tr>
 			<td>bool</td>
 			<td>_investorRestricted</td>
-			<td></td>
+			<td>flag to enable investor whitelist. Set to true to enable.</td>
 		</tr>
 	</tbody>
 </table>
@@ -172,9 +172,9 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>address</td>
@@ -216,9 +216,9 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>address</td>
@@ -262,9 +262,9 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>uint16</td>
@@ -297,9 +297,9 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>address</td>
@@ -317,9 +317,9 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>uint256</td>
@@ -390,9 +390,9 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>uint256</td>
@@ -431,9 +431,9 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>uint256</td>
@@ -472,9 +472,9 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>uint256</td>
@@ -500,9 +500,9 @@ amountLiquidity
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>uint256</td>
