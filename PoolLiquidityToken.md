@@ -81,4 +81,3 @@ bool public fixedSupply;
 
 }_maxPoolTotalSupply 
 ```
-
