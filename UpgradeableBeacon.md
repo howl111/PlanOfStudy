@@ -11,7 +11,7 @@
 		<tr>
 			<td>address</td>
 			<td>beacon</td>
-			<td></td>
+			<td>address that can be used as a delegate call target</td>
 		</tr>
 	</tbody>
 </table>        

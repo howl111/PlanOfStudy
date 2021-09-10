@@ -4,29 +4,29 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>address</td>
 			<td>_admin</td>
-			<td>trader address</td>
+			<td>dexeAdmin</td>
 		</tr>
 		<tr>
 			<td>address</td>
 			<td>_traderContractBeaconAddress</td>
-			<td></td>
+			<td>traderContractAddress</td>
 		</tr>
 		<tr>
 			<td>address</td>
 			<td>_pltBeaconAddress</td>
-			<td></td>
+			<td>PoolLiquidityTokenAddress</td>
 		</tr>
 		<tr>
 			<td>address</td>
 			<td>_paramkeeper</td>
-			<td>Basic token</td>
+			<td>token, which is implemented from the white list in IParamStorage</td>
 		</tr>
 		<tr>
 			<td>address</td>
@@ -36,7 +36,7 @@
 		<tr>
 			<td>address</td>
 			<td>_weth</td>
-			<td>List of open positions</td>
+			<td>address of wrapped eth</td>
 		</tr>
 		<tr>
 			<td>address</td>
@@ -76,9 +76,9 @@ modifier onlyAdmin() {
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Type</td>
-			<td>Name</td>
-			<td>Definition</td>
+			<th>Type</th>
+			<th>Name</th>
+			<th>Definition</th>
 		</tr>
 		<tr>
 			<td>address</td>
