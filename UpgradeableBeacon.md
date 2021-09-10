@@ -1,9 +1,5 @@
----
-sidebar_position: 4
----
-
 ### *Code*
-### [UpgradeableBeacon.sol](https://github.com/dexe-network/dexe-asset-management/blob/js-tests-new-contract-with-pass/contracts/upgradeable/UpgradeableBeacon.sol)
+### [```UpgradeableBeacon.sol```](https://github.com/dexe-network/dexe-asset-management/blob/js-tests-new-contract-with-pass/contracts/upgradeable/UpgradeableBeacon.sol)
 #### *Parameter's table*
 <table class="iksweb">
 	<tbody>

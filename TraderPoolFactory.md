@@ -1,9 +1,5 @@
----
-sidebar_position: 5
----
-
 ### *Code*
-### [TraderPoolFactory.sol](https://github.com/dexe-network/dexe-asset-management/blob/js-tests-new-contract-with-pass/contracts/TraderPoolFactoryUpgradeable.sol)
+### [```TraderPoolFactory.sol```](https://github.com/dexe-network/dexe-asset-management/blob/js-tests-new-contract-with-pass/contracts/TraderPoolFactoryUpgradeable.sol)
 #### *Parameter's table*
 <table class="iksweb">
 	<tbody>
