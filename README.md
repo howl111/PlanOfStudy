@@ -1,4 +1,4 @@
-![Map](https://raw.githubusercontent.com/howl111/PlanOfStudy/main/ContractsMap.drawio.png)
+![Map](https://raw.githubusercontent.com/howl111/PlanOfStudy/main/DexeContractsMap.png)
 
 [ParamKeeper.sol](https://github.com/howl111/PlanOfStudy/blob/main/ParamKeeper.md)
 
