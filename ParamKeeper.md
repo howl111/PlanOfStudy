@@ -4,9 +4,6 @@
 #### *Parameter's table*
 <table class="iksweb">
 	<tbody>
-    <style type="td">
-
-</style>
 		<tr>
 			<th>Type</th>
             <th>Name</th>
