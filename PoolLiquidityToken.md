@@ -75,5 +75,5 @@ bool public fixedSupply;
 ```jsx title="текст"
     function burn(address from, uint256 amountLiquidity) public override onlyOwner{
 
-}_maxPoolTotalSupply 
+    }
 ```

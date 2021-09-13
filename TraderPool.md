@@ -36,7 +36,7 @@
 		<tr>
 			<td>address</td>
 			<td>iaddr</td>
-			<td>map of references to different class of token Dex system</td>
+			<td>map of references to different pairs of token Dexe system</td>
 		</tr>
 		<tr>
 			<td>uint256</td>
